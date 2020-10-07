@@ -1,0 +1,57 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://www.coach.com/partials",
+
+    "definitions": {
+
+        "bgColor": {
+            "title": "Background Color",
+            "description": "description",
+            "type": "string",
+            "enum": [
+                "#000000",
+                "#CC0000",
+                "#00CC00",
+                "#0000CC",
+                "#FFFFFF"
+            ]
+        },
+
+        "textColor": {
+            "title": "Text Color",
+            "description": "description",
+            "type": "string",
+            "enum": [
+                "#FF0000",
+                "#000000",
+                "#CC0000",
+                "#00CC00",
+                "#0000CC",
+                "#FFFFFF"
+            ]
+        },
+
+        "font": {
+            "title": "Font",
+            "description": "primary font used for this component",
+            "type": "string",
+            "enum": [
+                "'Times New Roman', Times, serif;",
+                "Arial, Helvetica, sans-serif"
+            ]
+        },
+
+        "fontSize": {
+            "title": "Font Size",
+            "description": "description",
+            "type": "string",
+            "enum": [
+                "64",
+                "32",
+                "24",
+                "14"
+            ]
+        }
+
+    }
+}
