@@ -31,7 +31,7 @@
       "title": "Font Size",
       "description": "description",
       "type": "string",
-      "enum": ["64", "32", "24", "14"]
+      "enum": ["62", "32", "24", "14"]
     },
   }
 }
