@@ -32,6 +32,6 @@
       "description": "description",
       "type": "string",
       "enum": ["52", "48", "32", "24", "14"]
-    },
+    }
   }
 }
