@@ -18,7 +18,7 @@
     },
 
     "font": {
-      "title": "The Headline Font",
+      "title": "Font",
       "description": "primary font used for this component",
       "type": "string",
       "enum": [
