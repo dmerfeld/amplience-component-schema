@@ -7,14 +7,14 @@
       "title": "Background Color",
       "description": "description",
       "type": "string",
-      "enum": ["#000000", "#CC0000", "#00CC00", "#0000CC", "#FFFFFF"]
+      "enum": ["primary", "secondary", "tapestry-red"]
     },
 
     "textColor": {
       "title": "Text Color",
       "description": "description",
       "type": "string",
-      "enum": ["#FF0000", "#000000", "#CC0000", "#00CC00", "#0000CC", "#FFFFFF"]
+      "enum": ["primary", "secondary", "tapestry-red"]
     },
 
     "font": {
@@ -31,7 +31,7 @@
       "title": "Font Size",
       "description": "description",
       "type": "string",
-      "enum": ["56", "48", "32", "24", "14"]
+      "enum": ["xl", "l", "md", "sm"]
     }
   }
 }
