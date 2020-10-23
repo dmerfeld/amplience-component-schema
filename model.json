@@ -7,7 +7,7 @@
   "textColor": {
     "primary": "#000000",
     "secondary": "#CCCCCC",
-    "tapestry-red": "#FF0000"
+    "tapestry-red": "#00CC00"
   },
   "fontSize": {
     "xl": "68px",
