@@ -1,0 +1,18 @@
+{
+  "bgColor": {
+    "primary": "#1F1F1F",
+    "secondary": "#FF00FF",
+    "tapestry-red": "#FF0000"
+  },
+  "textColor": {
+    "primary": "#000000",
+    "secondary": "#CCCCCC",
+    "tapestry-red": "#FF0000"
+  },
+  "fontSize": {
+    "xl": "68px",
+    "l": "42px",
+    "md": "24px",
+    "sm": "12px"
+  }
+}
