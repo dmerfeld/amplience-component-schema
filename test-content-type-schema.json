@@ -7,7 +7,7 @@
       "description": "description",
       "type": "string",
       "enum": [
-        "#000000",
+        "#444444",
         "#CC0000",
         "#0000CC",
         "#ff00d4"
